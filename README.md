@@ -9,6 +9,7 @@ Em seguida no mesmo terminal digite npm start para iniciar a aplicação,
 Se ainda não tem o thunder instalado, então instale a extensão Thunder Client,
 
 USANDO MINHA APLICAÇÃO:
+
 No thunder, na are de colocar o link você colocara o seguinte link:
 
 http://localhost:3000/register
