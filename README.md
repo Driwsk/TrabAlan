@@ -40,6 +40,7 @@ Forma correta de logar: (OBS: deve digitar o codigo abaixo na aba body)
 {
 
 "email": "exemplo@gmail.com",
+
 "password": "exemplo"
 
 }
