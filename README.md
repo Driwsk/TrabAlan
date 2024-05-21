@@ -16,10 +16,15 @@ http://localhost:3000/register
 tenha a certeza de estar utilizando o metodo POST,
 
 Cadastra um novo Usuario da seguinte forma: (OBS: deve digitar o codigo abaixo na aba body)
+
 {
+
 "username": "exemplo",
+
 "email": "exemplo@gmail.com",
+
 "password": "exemplo"
+
 }
 
 Se tudo estiver correto você tera o seu usario cadatrado com sua senha criptografada,
@@ -33,11 +38,15 @@ para logar no seu usuario,
 Forma correta de logar: (OBS: deve digitar o codigo abaixo na aba body)
 
 {
+
 "email": "exemplo@gmail.com",
 "password": "exemplo"
+
 }
 
 isso ira gerar um token.
+
+PASSOS FINAIS
 
 Em seguida utilize o seguinte link: 
 
